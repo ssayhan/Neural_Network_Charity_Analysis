@@ -17,6 +17,7 @@ We will start with ML process with cleaning, manipulating and data preprocessing
 
 ### Processing
 •	For this project we use  “IS_SUCCESSFULL” column as our variable
+
 •	APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT columns used for features for our model.
 
 ### Compiling, Training and Evaluating the Model
