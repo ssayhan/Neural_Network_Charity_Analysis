@@ -29,8 +29,7 @@ After the these configurations we reach the %75.57 accuracy.
 <img width="930" alt="Screen Shot 2022-07-31 at 11 48 00 PM (2)" src="https://user-images.githubusercontent.com/77603561/182083735-af2ef006-ce1b-43ea-9429-6dfcdb13e049.png">
 
  
+## Summary
 
-
-##Summary
 Loss score is equal to 0.5187. the model reached the required criteria. So it means. This data is not the perfect model. 
 Accuracy score is 0.7552, so it means model accurate %75.51
